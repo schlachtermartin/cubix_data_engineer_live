@@ -64,7 +64,7 @@ Data Engineer Student
 Ez a projekt bemutatóként szolgál, például állásinterjúkon, hogy demonstrálja a data engineer feladatokhoz szükséges képességeimet.
 
 ### Visualizációk
-A projekt végén öt különböző vizualizáció készült, amelyek bemutatják az adatok elemzésének eredményeit. Az alábbiakban a ezeket láthatod:
+A projekt végén öt különböző vizualizáció készült, amelyek bemutatják az adatok elemzésének eredményeit. Az alábbiakban ezeket láthatod:
 
 ![1. - Count of Payment Types](data/visualizations/01_count_of_payment_types.png)
 
