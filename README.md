@@ -2,8 +2,8 @@
 
 ## 🌍 Language / Nyelv kiválasztása
 
-- [English](#english-version)
-- [Magyar](#magyar-verzió)
+- [English](#🇬🇧-english-version)
+- [Magyar](#🇭🇺-magyar-verzió)
 
 ---
 
