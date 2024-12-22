@@ -38,9 +38,9 @@ The project code is available for viewing and study. It is not intended for inst
 
 ### File Structure
 - **data/**: This folder contains subfolders, which are:
-      **csv/** : Contains the CSV files used in the project
-      **json_handling/** : Contains spotify_playlist.json, used in a practice task
-      **visualizations/** : Contains images of the visualizations
+- - **csv/** : Contains the CSV files used in the project
+- - **json_handling/** : Contains spotify_playlist.json, used in a practice task
+- - **visualizations/** : Contains images of the visualizations
 - **src/notebooks** : Contains the project notebooks
 - **README.md** : Documentation
 
@@ -81,9 +81,9 @@ A projekt kódja megtekinthető és tanulmányozható. Ez nem telepítésre vagy
 
 ### Fájlstruktúra
 - **data/**: A mappa további mapákat tartalmaz, melyek a következők:
-      **csv/** : A projektben használt CSV fájlokat tartalmazza
-      **json_handling/** : Tartalmazza a spotify_playlist.json fájlt, amelyet egy gyakorló feladatban használtam
-      **visualizations/** : A vizualizációk képeit tartalmazza
+- - **csv/** : A projektben használt CSV fájlokat tartalmazza
+- - **json_handling/** : Tartalmazza a spotify_playlist.json fájlt, amelyet egy gyakorló feladatban használtam
+- - **visualizations/** : A vizualizációk képeit tartalmazza
 - **src/notebooks** : A projekt notebookjai vannak benne
 - **README.md** : Dokumentáció
 
